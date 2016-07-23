@@ -3,15 +3,14 @@
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .rotato {
   width: 50%;
   height: auto;
-  transition: all 30s;
-}
+  transition: all 30s; }
 
 .rotato:hover {
-  transform: rotate(10800deg);
-}
+  transform: rotate(10800deg); }
+
+/*# sourceMappingURL=application.css.map */
